@@ -1,0 +1,119 @@
+Package: com.iceteax.take-your-chance+niteflow
+Version: 1.0
+Section: Ringtones Makina
+Maintainer: MacCiti <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/takeyourchance.deb
+Size: 905702
+MD5sum: 6e492fa481404692d2b101e14b3d469c
+Description: morceau original a 192 BPM
+Name: take your chance niteflow
+Author: IcetEaX <iceteax@free.fr>
+Homepage: http://parisianos.dyndns.org
+
+Package: com.joon.navigon
+Version: 1.6
+Section: joon repo
+Maintainer: iceteax <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/navigon.deb
+Size: 2958
+MD5sum: fa5c25a9b2e5e6168dc450a0f67b0294
+Description: patch navigon par joon
+Name: patch navigon
+Author: joon
+Homepage: http://parisianos.dyndns.org
+Icon: file:///Applications/Cydia.app/Sections/navigon.png
+
+Package: com.joon.reposicon
+Version: 1.1
+Section: joon Apps
+Maintainer: joon <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/icone_repo.deb
+Size: 33854
+MD5sum: eab9bc0ac048d7a2e00654d4ef6847f1
+Description: Les icone du repos pour favoriser votre naviguation.
+Name: joon Cydia Icons
+Author: joon
+Homepage: http://parisianos.dyndns.org
+
+Package: joon.backuprestore
+Version: 1.2.5
+Section: joon
+Maintainer: iceteax <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/backuprestore.deb
+Size: 6750
+MD5sum: 2963d996b01e2e78897b37204e47d837
+Description: script backup et restore par joon
+Name: backup restore
+Author: joon
+Homepage: http://parisianos.dyndns.org
+
+Package: joon.bleachios4
+Version: 1.2
+Section: joon theme
+Maintainer: iceteax <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/bleachios4.deb
+Size: 19353050
+MD5sum: 9874ab19fb5adc8c0c03bea52d6736ad
+Description: sbsettings theme par joon
+Name: bleach ios 4 theme
+Author: joon
+Homepage: http://parisianos.dyndns.org
+
+Package: joon.bleachios5
+Version: 1.3
+Section: joon theme
+Maintainer: iceteax <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/bleachios5.deb
+Size: 19354698
+MD5sum: 526bcb680cbe305728c76bea72d63fc8
+Description: sbsettings theme par joon
+Name: bleach theme
+Author: joon
+Homepage: http://parisianos.dyndns.org
+
+Package: joon.defaut
+Version: 1.0
+Section: joon theme
+Maintainer: iceteax <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/themeApple.deb
+Size: 1542846
+MD5sum: 810675c7a5a3c59c82a28658e8473373
+Description: sbsettings theme par joon
+Name: defaut theme
+Author: joon
+Homepage: http://parisianos.dyndns.org
+
+Package: joon.ioshdgreen
+Version: 1.3
+Section: joon repo
+Maintainer: joon<joon431@live.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/SBSettings.deb
+Size: 3822980
+MD5sum: 53b8aaeb0afc1798d1d34541b0e89c61
+Description: sbsettings theme par joon
+Name: sbsettings theme
+Author: joon
+Homepage: http://parisianos.dyndns.org
+Icon: file:///Applications/Cydia.app/Sections/sbsettings.png
+
+Package: joon.ringtone.hado90
+Version: 1.2
+Section: hado
+Maintainer: iceteax <iceteax@free.fr>
+Architecture: iphoneos-arm
+Filename: ./deb/ringtonehado90.deb
+Size: 838960
+MD5sum: 6d3b8fd46d59a33622c772ea24bf80d9
+Description: ringtone hado 90 par joon
+Name: hado 90 ringtone
+Author: joon
+Homepage: http://parisianos.dyndns.org
+
